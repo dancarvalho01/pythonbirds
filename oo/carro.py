@@ -2,7 +2,6 @@
 
 
 """
-
 Você deve criar uma classe carro que vai possuir 2 atributos compostos por outras 2 classes:
 1) Motor
 2) Direção
