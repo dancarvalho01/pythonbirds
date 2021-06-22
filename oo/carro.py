@@ -2,6 +2,7 @@
 
 
 """
+
 Você deve criar uma classe carro que vai possuir 2 atributos compostos por outras 2 classes:
 1) Motor
 2) Direção
@@ -122,4 +123,5 @@ class Motor:
     def frear(self):
         self.velocidade -= 2
         self.velocidade = max(0, self.velocidade)
+
 
